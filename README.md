@@ -1,2 +1,1 @@
-# .github
-Public README for The Climate Action Agency
+# Welcome to The Climate Action Agency
